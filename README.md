@@ -20,11 +20,18 @@ Feel free to discuss anything about the game.
 
 Source code will be published soon, once everything is organized.
 
+### Planned
+- Ore spawning/placement
+- Liquids
+- Underground belts
+- Player inventory & crafting
+
 ## Notes
 
 - Adding new ores as a resource is not supported currently but can be added via assembling machine recipes.
 - To add entity from package into your hotbar, use player_lib:set_hotbar_slot(slot : int, prototype_name : string) in the in-game console
 ###
+- Press '__/__' to open console
 - player_lib
   
   ```lua
