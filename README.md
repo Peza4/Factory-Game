@@ -29,7 +29,7 @@ Source code will be published soon, once everything is organized.
 ## Notes
 
 - Adding new ores as a resource is not supported currently but can be added via assembling machine recipes.
-- To add entity from package into your hotbar, use player_lib:set_hotbar_slot(slot : int, prototype_name : string) in the in-game console
+- To add entity from package into your hotbar, use set_hotbar_slot(...) from player_lib in the in-game console
 ###
 - Press '__/__' to open console
 - player_lib
